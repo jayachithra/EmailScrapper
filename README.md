@@ -1,5 +1,5 @@
 # EmailScrapper
-Scrape email IDs from websites 
+Scrape email IDs from websites using Python 3
 
 The given script gets a list of websites from the user and extracts all the email IDs from the website.
 
